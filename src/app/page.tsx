@@ -9,10 +9,6 @@ export default function Home() {
     return (
         <div className="container mt-5 ml-5">
             <div className="text-center">
-
-                <h1 className='text-success mtb-1 '>
-                    GeekForGeeks
-                </h1>
                 <h3 className='mb-4'>Quiz App</h3>
             </div>
 
